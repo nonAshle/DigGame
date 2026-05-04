@@ -1,0 +1,11 @@
+public enum typeBlock
+{
+    NONEBLOCK,
+    DEFAULTBLOCK,
+    CLEANBLOCK,
+    OLDBLOCK,
+    TEMPLEBLOCK,
+    SILVERBLOCK,
+    GOLDBLOCK
+}
+
